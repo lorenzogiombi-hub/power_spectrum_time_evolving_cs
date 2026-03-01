@@ -6,7 +6,7 @@ This module allows to compute the gravitational wave power spectrum from sound w
 ```
 with 
 ```math
-\langle \tilde{\mathcal{S}}^{*\, (TT)}_{ij}(\eta_1, \bm{k}_1) \tilde{\mathcal{S}}^{(TT) \, ij}(\eta_2, \bm{k}_2)\rangle = U_{\mathcal{S}}(\bm{k}_1, \eta_1, \eta_2) (2\pi)^3 \delta(\bm{k}_1 - \bm{k}_2)
+\langle \tilde{\mathcal{S}}^{*\, (TT)}_{ij}(\eta_1, \vec{k}_1) \tilde{\mathcal{S}}^{(TT) \, ij}(\eta_2, \vec{k}_2)\rangle = U_{\mathcal{S}}(\vec{k}_1, \eta_1, \eta_2) (2\pi)^3 \delta(\vec{k}_1 - \vec{k}_2)
 ```
 the unequal time correlator of the fluid shear stress.
 
